@@ -1,2 +1,3 @@
-# 2D-Fighting-Game
-2D Game (Beat em Up)
+# 2D-Fighting-Game 
+Beat em up style game, where you fight against enemies and try to beat your record. Later on for update, maybe coming more levels and a story around the game.
+
